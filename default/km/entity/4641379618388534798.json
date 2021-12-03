@@ -1,0 +1,23 @@
+{
+  "$id": "4641379618388534798",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "230 E 30th St",
+      "line2": "12H",
+      "postalCode": "10016",
+      "region": "NY"
+    },
+    "addressHidden": false,
+    "categoryIds": [
+      "2034"
+    ],
+    "name": "Tech Museum",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}
